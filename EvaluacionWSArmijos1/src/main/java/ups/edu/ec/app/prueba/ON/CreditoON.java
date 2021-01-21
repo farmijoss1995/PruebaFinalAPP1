@@ -11,11 +11,7 @@ import java.util.List;
 import javax.ejb.Stateless;
 import javax.inject.Inject;
 
-import ec.ups.edu.app.g2.cooperativaUnion.EN.CuentaAhorro;
-import ec.ups.edu.app.g2.cooperativaUnion.EN.PolizaPres;
-import ec.ups.edu.app.g2.cooperativaUnion.utils.Decimales;
-import ec.ups.edu.app.g2.cooperativaUnion.utils.Respuesta;
-import ec.ups.edu.app.g2.cooperativaUnion.utils.Trans;
+
 import ups.edu.ec.app.prueba.DAO.CreditoDAO;
 import ups.edu.ec.app.prueba.DAO.CuentaDAO;
 import ups.edu.ec.app.prueba.DAO.PagoDAO;
